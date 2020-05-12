@@ -1,0 +1,13 @@
+/*Tema claro*/
+body{
+    font-family: "arial";
+    background-color: #4f4c4b;
+    color: white;
+}
+
+a:visited{
+    color: aqua;
+}
+a:hover{
+    color: coral;
+}
